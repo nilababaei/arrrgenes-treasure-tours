@@ -20,7 +20,6 @@ html {
 
 a:focus {
   outline: 3px solid #fff;
-  background-color: #000;
 }
 
 .nav {
