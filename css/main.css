@@ -18,6 +18,10 @@ html {
   width: 9em;
 }
 
+a:focus {
+  outline: 3px solid #000;
+}
+
 .nav {
   text-align: center;
 }
@@ -34,6 +38,10 @@ html {
 .nav a:hover span,
 .nav a:focus span {
   border-bottom-color: #fff;
+}
+
+.nav a:focus {
+  outline: 3px solid #000;
 }
 
 .banner {
